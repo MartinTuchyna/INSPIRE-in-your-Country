@@ -55,11 +55,9 @@ Coordination of the relevant stakeholders in Slovakia is facilitated on two main
 - Strategy / Main public sector stakeholders’ level represented by the Coordination Committee of National Spatial Data Infrastructure [NSDI Council / KR-NIPI](https://inspire.gov.sk/koordinacia/sk/kr-nipi)
 - Technical / implementation level represented by [Expert Group of NSDI / ES NIPI](https://inspire.gov.sk/koordinacia/sk/es-nipi)
 
-Based on experience the plan is to merge KR and ES NIPI into the one joint NSDI Coordination group (Figure 1.). 
+Considering the experience simplification of the governance framework has been initiated during the 2024 by the new [NSDI Coordination group](https://inspire.gov.sk/koordinacia/sk/ks-nipi#koordinacna_skupina) (KS NIPI) has been established based on Decision of the Minister of the Environment of the Slovak Republic [No. 28/2024-1.16.1](https://inspire.gov.sk/media/docs/20240612_KS_NIPI_rozhodnutie_min.pdf) on the Establishment of the Coordination Group for the National Spatial Data Infrastructure. KS NIPI is composed by the wide range of stakeholders from the public and private sector, academia as well as regional authorities or research and academia. 
 
-Main responsibility for the INSPIRE implementation and coordination was assigned to the Ministry of Environment of the Slovak Republic (MoE), supported with the Coordination Council (KR NIPI). KR NIPI is representing the main central public authorities, including the representation of local governance.
-
-The Ministry of Environment of the Slovak Republic is also in charge of development and maintenance for [National Geoportal](https://geoportal.gov.sk), [Spatial Data Registry](https://rpi.gov.sk)  as well as [National INSPIRE website](https://inspire.gov.sk), communication with the Slovakian stakeholders, communication with European Commission, and provides the primary contacts in both Maintenance and Implementation Groups (MIG) political and technical. 
+The Ministry of Environment of the Slovak Republic is also in charge of development and maintenance for [National Geoportal](https://geoportal.gov.sk), [Spatial Data Registry](https://rpi.gov.sk) as well as [National INSPIRE website](https://inspire.gov.sk), communication with the Slovakian stakeholders, communication with European Commission, and provides the primary contacts in both Maintenance and Implementation Groups (MIG) political (MIG-P) and technical (MIG-T). 
 
 During the year 2024, coordination with [Open Data / HVD community has continued](https://inspire.gov.sk/koordinacia/sk/opendata-hvd). Main responsibility for the eGov / Open Data agenda remains with Ministry of investment, regional development and informatization of the Slovak Republic (MIRRI) (Figure 1.).
 
@@ -77,7 +75,7 @@ With that in mind relevant EU initiatives were closely followed and coordination
 
 Figure 2: SK High value datasets from NSDI
 
-Based on closer coordination with the MIRRI as well as responsible data providers significant amount of HVD was successfully harvested into the [SK National Open Data Portal](https://data.slovensko.sk) as well as to the European Open Data portal [European Open Data portal](https://data.europa.eu/data/datasets?is_hvd=true&locale=en&dataScope=countryData&country=sk&page=1). These results were achieved thanks to the fulfillment of automated integration between [SK NSDI metadata catalogue SDR and SK National Open Data portal](https://inspire.gov.sk/clanok/integracia-nkod-a-rpi).
+Based on coordination with the MIRRI as well as responsible data providers, significant amount of HVD was successfully harvested into the [SK National Open Data Portal](https://data.slovensko.sk) as well as to the European Open Data portal [European Open Data portal](https://data.europa.eu/data/datasets?is_hvd=true&locale=en&dataScope=countryData&country=sk&page=1). These results were achieved thanks to the fulfillment of automated integration between [SK NSDI metadata catalogue SDR and SK National Open Data portal](https://inspire.gov.sk/clanok/integracia-nkod-a-rpi) utilising the DCAT-AP standard.
 
 In order to strenghteen the knowledge transfer and networking [Joint Czech and Slovak INSPIRE and Copernicus conference](https://inspirujmese.eu/sk/archiv-2024) was organised in Slovakia (20. – 21. November 2024). 
 
@@ -101,25 +99,25 @@ The Slovak Republic was also identified as a [country representing examples](htt
 
 At the same time, areas requiring attention and improvement were identified (e.g. Declaration of compliance with interoperability requirements, simplification of data and service interconnection and metadata reduction, quality of services).
 
-![Figure 2: INSPIRE monitoring indicators 2024 - Slovakia](images/sk_monitoring_indicators_2024.png)
+![Figure 3: INSPIRE monitoring indicators 2024 - Slovakia](images/sk_monitoring_indicators_2024.png)
 
-Figure 2: [INSPIRE monitoring indicators 2024 - Slovakia](https://inspire-geoportal.ec.europa.eu/mr/mr2024_details.html?country=sk)  
+Figure 3: [INSPIRE monitoring indicators 2024 - Slovakia](https://inspire-geoportal.ec.europa.eu/mr/mr2024_details.html?country=sk)  
 
 ### Usage of the infrastructure for spatial information <a name="usage"></a>
 
 Systematic NSDI usage monitoring is slowly improving, but obtaining a satisfactory overview remains a challenge.
 
 In 2024 monitoring of the resources in the NSDI was increased with extension of the monitoring and visualisation of the Network services availability via National Geoportal on the level of:
--	[Providers](https://geoportal.gov.sk/gallery/providers) (Figure 3)
--	[Datasets](https://geoportal.gov.sk/gallery/datasets) (Figure 4)  
+-	[Providers](https://geoportal.gov.sk/gallery/providers) (Figure 4)
+-	[Datasets](https://geoportal.gov.sk/gallery/datasets) (Figure 5)  
 
-![Figure 3: SK Monitoring of datasets availability on the level of Providers](images/sk_ng_monitor_providers.png)
+![Figure 4: SK Monitoring of datasets availability on the level of Providers](images/sk_ng_monitor_providers.png)
 
-Figure 3: SK Monitoring of datasets availability on the level of Providers
+Figure 4: SK Monitoring of datasets availability on the level of Providers
 
-![Figure 3: SK Monitoring of datasets availability on the level of datasets](images/sk_ng_monitor_dataset.png)
+![Figure 5: SK Monitoring of datasets availability on the level of datasets](images/sk_ng_monitor_dataset.png)
 
-Figure 4: SK Monitoring of datasets availability on the level of datasets
+Figure 5: SK Monitoring of datasets availability on the level of datasets
 
 There are also some indirect indicators providing related information. Google analytics statistics related to the INSPIRE related websites for 2024:
 -	geoportal.gov.sk:  0,3k users, 10k events;
@@ -134,4 +132,19 @@ Adoption of HVD regulation contributed to the further discussion about the geosp
 
 ### Costs and Benefits <a name="costs"></a>
 
-Considering the preparation of the new governance framework, collection of the costs and benefits related information for 2024 will be executed after organising the 1st meeting of SK NSDI Coordination group. Detailed information will be available via this [summary table](https://cms.geocloud.gov.sk/media/tables/INSPIRE_SK_CBA_2024_spolu.xls). 
+The cost and benefits evaluation is based on the information collected in the structured tabular information from the representatives of the relevant stakeholders.  
+The total indicative costs related with the INSPIRE implementation for 2024:  **433 360** € and **410** person days. 
+
+From the Benefits perspective, these were identified mainly in for of
+•	Ensuring legislative requirements of INSPIRE / NSDI, Open Data / HVD, and environmental reporting
+•	Strengthening the discoverability of spatial data
+•	Improving the availability of spatial data
+•	Increasing the potential for re-use of digital spatial content and functionalities
+•	Improving the results of INSPIRE monitoring for Slovakia
+•	Strengthening communication with external domains and communities
+•	Raising awareness of the potential of spatial data and services
+•	Unified approach to spatial data (priority/harmonized datasets)
+•	More efficient management and functionality of internal spatial data, services, and metadata
+•	International cooperation (EuroGeographics – Open Maps for Europe Project)
+
+Detailed information about the costs and benefits can be accessed via this [summary table](https://drive.geocloud.sk/s/DjqFZ4fKGqnLRaX). Details, based on the [information provided by the organisations](https://drive.geocloud.sk/s/obBaFYmMSEybsdW). 
